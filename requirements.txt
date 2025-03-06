@@ -1,0 +1,16 @@
+python == 3.13
+logging == 3.13.2
+random == 3.13.2
+sqlite3 == 3.49.1
+requests == 2.32.3
+pandas == 2.2.3
+base64 == 3.13.2
+json == 3.5
+apscheduler.schedulers.background 
+pyhton-telegram-bot == 21.11.1
+telegram.ext == 21.3
+APScheduler == 3.11.0
+java script == ES2024
+HTML == HTML5
+CSS == CSS3
+react == 19.0.0
